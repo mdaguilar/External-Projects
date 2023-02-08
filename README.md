@@ -3,6 +3,9 @@ A reference to other projects I have collaborated on.
 
 
 ### Hackathons
+[NATE: Intelligent Companion](https://github.com/FrankP02/CruzHacks2023) -- CruzHacks | Feb. 2023
+> NATE is a desktop application that verbally responds to a question typed in its console. We took advantage of OpenAI's Text Completion API and Google Cloud's Text-to-Speech API.
+
 [Good Hood](https://github.com/SBHacks2021/goodhood) -- SB Hacks | Jan. 2021
   > Good Hood provides an easy-to-access way to see which local restaurants are open. Users can sort through restaurants based on cost and food type. This provides the community -- or neighborhood -- a way to find and support their local eateries.
 
